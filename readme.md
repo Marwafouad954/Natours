@@ -1,7 +1,5 @@
 # Natours Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose
-
 Natours is a tour booking web application, The app uses Node.js, Express and MongoDB to create a RESTful API and a dynamic website. The app also implements authentication, authorization, security, payments and email features.
 
 ## :rocket: Getting Started
